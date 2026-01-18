@@ -150,6 +150,7 @@ h1 {
         #0e2a1a 75%,
         #0a0a0a 100%);
     position: relative;
+    width: 100%;
 }
 
 .about h2 {
