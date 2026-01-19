@@ -26,12 +26,20 @@ Site web officiel de Spectre APT
 
 Le site est automatiquement déployé sur Vercel à chaque push sur `main`.
 
-## 💻 Développement local
+## 💻 Développement local Windows
 
 ```bash
 git clone https://github.com/SpectresAPT/SpectreAPT-web.git
 cd SpectreAPT-web
 python -m http.server 8000
+```
+
+## 💻 Développement local Linux
+
+```bash
+git clone https://github.com/SpectresAPT/SpectreAPT-web.git
+cd SpectreAPT-web
+python3 -m http.server 8000
 ```
 
 ---
